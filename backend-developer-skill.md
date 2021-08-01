@@ -72,6 +72,8 @@
 ### Tutorial
 
 - [關聯式資料庫系統](http://database.klab.tw/teaching.php)
+- [App 開發基礎講義 資料庫:基礎篇](https://ihower.tw/cs/database.html)
+- [App 開發基礎講義 資料庫:進階篇](https://ihower.tw/cs/database-part2.html)
 - [DBMS Tutorial](https://www.guru99.com/what-is-dbms.html)
 - [Free SQL 101 Class Bootcamp Beginners Intro to SQL NYC](https://www.udemy.com/course/sql-analytics-coding-101-bootcamp-begineers-course-hand-on/)
 
